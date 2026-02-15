@@ -1,5 +1,4 @@
 from datetime import date
-from idlelib.rpc import request_queue
 
 from django.db.models import Q
 from django.shortcuts import render, redirect
